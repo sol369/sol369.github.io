@@ -2,7 +2,7 @@ const projects = [
     {
         title: "Yunit Investing App",
         image: "images/image_original.png",
-        description: "iOS app that allows you to invest in stocks with your friends / family."
+        description: "iOS app that allows you to invest in stocks. You can create group chats, where you can suggest stocks to invest in with your friends / family and buy them directly in the app."
     },
     {
         title: "Jeg er mor Podcast App",

@@ -26,6 +26,7 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: 1rem;
     width: calc(50% - 2rem);
+    margin: 1rem auto;
     overflow: hidden;
     cursor: pointer;
 }
