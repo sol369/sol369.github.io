@@ -28,12 +28,12 @@ projects.forEach(project => {
         <p>${project.description}</p>
     `;
 
-    projectElement.addEventListener('click', () => {
-        modalImage.src = project.image;
-        modalTitle.textContent = project.title;
-        modalText.textContent = project.description;
-        modal.style.display = 'block';
-    });
+    // projectElement.addEventListener('click', () => {
+    //     modalImage.src = project.image;
+    //     modalTitle.textContent = project.title;
+    //     modalText.textContent = project.description;
+    //     modal.style.display = 'block';
+    // });
 
     projectContainer.appendChild(projectElement);
 });
