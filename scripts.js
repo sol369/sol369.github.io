@@ -2,12 +2,12 @@ const projects = [
     {
         title: "Yunit Investing App",
         image: "images/image_original.png",
-        description: "iOS app that allows you to invest in stocks. You can create group chats, where you can suggest stocks to invest in with your friends / family and buy them directly in the app."
+        description: "iOS app that allows you to invest in stocks. You can create group chats, where you can suggest stocks to invest in with your friends / family and buy them directly in the app. App was built with SwiftUI."
     },
     {
         title: "Jeg er mor Podcast App",
         image: "images/image_original_2.png",
-        description: "Podcast app for client that allows users to subscribe monthly or yearly to get access to all of their podcast episodes. App uses Firebase to for authentication and database."
+        description: "Podcast app for client that allows users to subscribe monthly or yearly to get access to all of their podcast episodes. App uses Firebase to for authentication and database. App was built with Storyboards for the UI and Swift."
     }
 ];
 
